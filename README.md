@@ -69,12 +69,17 @@ I also built a Power BI dashboard that surfaces additional reference data requir
 
 ## Screenshots
 
-Suggested screenshots:
+### Microsoft Form Overview
+![Microsoft Form Overview](images/form_overview.png)
 
-1. Microsoft Form overview
-2. Power Automate flow overview
-3. Attachment handling section of the flow
-4. Power BI dashboard overview
+### Power Automate Flow Overview
+![Power Automate Flow Overview](images/flow_overview.png)
+
+### Attachment Handling Logic
+![Attachment Handling Logic](images/attachment-logic.png)
+
+### Power BI Dashboard Overview
+![Power BI Dashboard Overview](images/dashboard_overview.png)
 
 ## Future Enhancements
 
