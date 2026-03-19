@@ -57,7 +57,7 @@ I also built a Power BI dashboard that surfaces additional reference data requir
 * Built dynamic file retrieval logic for SharePoint-hosted form uploads
 * Structured email attachments correctly for Outlook delivery
 * Troubleshot attachment formatting issues to prevent corrupted PDF files
-* Created a Power BI dashboard to centralize request details for downstream users
+* Created a Power BI dashboard that combined submitted request data with additional ERP reference data for financial analysts
 
 ## Business Impact
 
@@ -88,6 +88,11 @@ I also built a Power BI dashboard that surfaces additional reference data requir
 * Expand Power BI reporting to track turnaround time and bottlenecks
 * Add request history and summary metrics
 
+## Key Lessons Learned
+
+* Attachment handling in Power Automate requires careful formatting for Outlook
+* Dashboards can support operations, not just reporting
+
 ## Repository Structure
 
 ```text
@@ -102,7 +107,7 @@ purchase-order-intake-workflow/
     └── implementation-notes.md
 ```
 
-## How to Use This Repository
+## What This Project Demonstrates
 
 This repository is intended as a portfolio project that demonstrates:
 
@@ -114,4 +119,4 @@ This repository is intended as a portfolio project that demonstrates:
 
 ## Project Summary
 
-Designed and implemented an automated purchase order intake workflow using Microsoft Forms, Power Automate, SharePoint, and Power BI, replacing a manual email-based process with a standardized system that improved data consistency, reduced processing effort, and streamlined ERP entry.
+Designed and implemented an automated purchase order intake workflow using Microsoft Forms, Power Automate, SharePoint, and Power BI, replacing a manual email-based process with a standardized system that improved data consistency, reduced manual effort, and streamlined ERP entry.
